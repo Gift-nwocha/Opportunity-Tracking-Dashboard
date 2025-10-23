@@ -19,7 +19,7 @@ Every calculation, chart, and metric was developed inside Excel using formulas, 
 ---
 
 ##  Data Model (Star Schema)
-![Schema Map](./images/schema_and_insight_map.png)
+![Schema Map](./Screenshot 2025-10-23 174255.png)
 
 **Fact Table**
 - `Fact_Opportunity` → Opportunity ID, Account ID, Partner ID, Product ID, Stage ID, Revenue, Probability, Segment, Region  
