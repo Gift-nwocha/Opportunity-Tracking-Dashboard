@@ -37,7 +37,7 @@ Every calculation, chart, and metric was developed inside Excel using formulas, 
 ##  Business Insight Summary
 A separate sheet consolidates **15 strategic business questions**, each linked to a different analytical worksheet.  
 
-![Business Insight Sheet](./images/business_insight_sheet.png)
+![Business Insight Sheet](business_insight_sheet.png)
 
 | Focus Area | Key Insight |
 |-------------|--------------|
