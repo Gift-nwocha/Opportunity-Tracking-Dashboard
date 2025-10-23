@@ -19,7 +19,7 @@ Every calculation, chart, and metric was developed inside Excel using formulas, 
 ---
 
 ##  Data Model (Star Schema)
-![Schema Map](./https://github.com/Gift-nwocha/Opportunity-Tracking-Dashboard/commit/416357aff9fc65be4e0937e28aba196c4d67301d#diff-613904ad732f6878dbd956128b2a12324808092137530f8fb95b5dabc2fe0ea5)
+![Schema Map](Schema%20Map.png)
 
 **Fact Table**
 - `Fact_Opportunity` → Opportunity ID, Account ID, Partner ID, Product ID, Stage ID, Revenue, Probability, Segment, Region  
