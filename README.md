@@ -49,6 +49,7 @@ A separate sheet consolidates **15 strategic business questions**, each linked t
 
  [Business Insight Summary Sheet](./data/business_insight_summary.xlsx)
 
+ **The Opportunity Tracking dataset provides insights into sales opportunities across various partners, products, and regions, highlighting the sales stages and deal statuses for each opportunity. It encompasses a range of metrics, including opportunity size, probability of closing, and revenue potential. This comprehensive data can be used to analyze sales performance and forecast future opportunities.**
 ---
 
 ##  Workbook Structure
