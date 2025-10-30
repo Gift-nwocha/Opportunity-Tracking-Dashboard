@@ -77,7 +77,7 @@ A separate sheet consolidates **15 strategic business questions**, each linked t
 ---
 
 ##  Dashboard Preview
-![Dashboard Preview](Dashboard%20OT.png)
+![Dashboard Preview](hDashboard%20Overview)
 
 ###  Highlights
 - KPI cards showing total revenue, win rate, partner share  
