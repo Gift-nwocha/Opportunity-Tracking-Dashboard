@@ -47,8 +47,6 @@ A separate sheet consolidates **15 strategic business questions**, each linked t
 | Deal Cycle | Partner deals close slower but yield higher value |
 | Strategic Mix | Direct for quick wins, Partner for sustainable growth |
 
- [Business Insight Summary Sheet](./data/business_insight_summary.xlsx)
-
  **The Opportunity Tracking dataset provides insights into sales opportunities across various partners, products, and regions, highlighting the sales stages and deal statuses for each opportunity. It encompasses a range of metrics, including opportunity size, probability of closing, and revenue potential. This comprehensive data can be used to analyze sales performance and forecast future opportunities.**
 ---
 
@@ -77,7 +75,7 @@ A separate sheet consolidates **15 strategic business questions**, each linked t
 ---
 
 ##  Dashboard Preview
-![Dashboard Preview](hDashboard%20Overview)
+![Dashboard Preview](Dashboard%20Overview)
 
 ###  Highlights
 - KPI cards showing total revenue, win rate, partner share  
@@ -99,5 +97,3 @@ A separate sheet consolidates **15 strategic business questions**, each linked t
 📁 [Formula Definitions](./assets/formula_definitions.txt)
 
 ---
-
-## 📂 Repository Map
