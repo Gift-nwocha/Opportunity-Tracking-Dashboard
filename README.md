@@ -30,14 +30,10 @@ Every calculation, chart, and metric was developed inside Excel using formulas, 
 - `Dim_Product` → Product Code, Category, Cost  
 - `Dim_Stage` → Stage Name, Win Probability  
 
- [Merged Fact Sheet](./data/merged_fact_sheet.xlsx)
-
 ---
 
 ##  Business Insight Summary
 A separate sheet consolidates **15 strategic business questions**, each linked to a different analytical worksheet.  
-
-![Business Insight Sheet](business_insight_sheet.png)
 
 | Focus Area | Key Insight |
 |-------------|--------------|
@@ -93,7 +89,5 @@ A separate sheet consolidates **15 strategic business questions**, each linked t
 | **Win Rate by Channel** | `=SUMIFS(Revenue, Channel, "Partner") / Total_Revenue` |
 | **Partner Contribution** | `=Partner_Revenue / Total_Revenue` |
 | **Regional Growth** | `=SUMIFS(Revenue, Region, "East")` |
-
-📁 [Formula Definitions](./assets/formula_definitions.txt)
 
 ---
